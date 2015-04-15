@@ -13,5 +13,3 @@ cd harp
 git remote add octohost git@ip.address.here:kraken.git
 git push octohost master
 ```
-
-Example site \(usually\) at [http://kraken.octohost.io](http://kraken.octohost.io)
